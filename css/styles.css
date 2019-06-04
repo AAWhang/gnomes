@@ -1,0 +1,15 @@
+#gnomeShow {
+  display: none;
+}
+#showingText {
+  display: none;
+}
+
+.gnometoggle {
+  cursor: pointer;
+    color: #0088cc;
+}
+
+.gnomeToggle:hover {
+  text-decoration: underline;
+}
